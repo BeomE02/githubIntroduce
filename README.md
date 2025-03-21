@@ -300,6 +300,6 @@ Markdown에서 이미지 삽입하는 방법:
 4. `"선택적 제목"`을 추가하면 마우스를 올렸을 때 툴팁이 표시됩니다.
 
 예시:
-![고양이 이미지]([https://example.com/cat.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp) "귀여운 고양이")
+![고양이 이미지](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp "귀여운 고양이")
 ```
-![고양이 이미지]([https://example.com/cat.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp)
+![고양이 이미지](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp "귀여운 고양이")
