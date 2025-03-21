@@ -148,6 +148,7 @@ Markdown에서 들여쓰기(Indentation) 를 사용하면 코드 블록이 생�
 Markdown에서 코드블럭을 작성하는 방법은 두 가지가 있습니다.
 ✅ 방법 1: <pre><code> 태그 사용
 HTML의 <pre>와 <code> 태그를 사용하여 코드 블록을 만들 수 있습니다.
+
 ```md
 <pre><code>
 public class BootSpringBootApplication {
@@ -157,7 +158,9 @@ public class BootSpringBootApplication {
 }
 </code></pre>
 ```
+
 ## 결과값
+
 <pre><code>
 public class BootSpringBootApplication {
   public static void main(String[] args) {
