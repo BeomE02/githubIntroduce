@@ -229,3 +229,8 @@ Markdown에서 참조 스타일 링크를 사용하는 방법:
 [google]: https://www.google.com "Google 홈페이지"
 */
 ```
+## 결과값
+
+[구글][google]
+
+[google]: https://www.google.com "Google 홈페이지"
