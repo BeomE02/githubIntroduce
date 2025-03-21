@@ -302,4 +302,34 @@ Markdown에서 이미지 삽입하는 방법:
 예시:
 ![고양이 이미지](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp "귀여운 고양이")
 ```
+
+## 결과값
+
 ![고양이 이미지](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp "귀여운 고양이")
+
+✅ Markdown에서는 이미지 크기 조절 기능이 없음   
+
+Markdown 자체적으로는 이미지의 크기를 조절할 수 없습니다.   
+HTML 태그 <img>를 사용하면 크기를 조절할 수 있습니다.
+
+```md
+<!-- HTML을 사용하여 이미지 크기를 조절하는 방법 -->
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="비율 크기 설정" alt="RubberDuck">
+
+Markdown에서는 기본적으로 이미지 크기 조절 기능이 없기 때문에,
+HTML `<img>` 태그를 사용하여 크기를 직접 설정할 수 있습니다.
+
+1. `src="/path/to/img.jpg"` → 이미지 파일 경로 또는 URL
+2. `width="450px" height="300px"` → 픽셀 단위로 크기 설정
+3. `width="40%" height="30%"` → 화면 크기에 대한 비율(%)로 조절 가능
+4. `title="설명"` → 마우스를 올렸을 때 표시되는 툴팁
+5. `alt="대체 텍스트"` → 이미지가 로드되지 않을 경우 표시될 텍스트
+
+예시:
+<img src="https://example.com/duck.jpg" width="300px" height="200px" alt="귀여운 고양이">
+```
+
+## 결과값
+
+<img src="https://example.com/duck.jpg" width="300px" height="200px" alt="귀여운 고양이">
