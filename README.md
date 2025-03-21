@@ -57,7 +57,7 @@ MIT License
   - 코드 스타일 규칙
   - 브랜치 및 커밋 메시지 규칙
 
-# Contributing to 프로젝트명
+# Contributing to Markdown Introduce
 
 ### 📌 브랜치 규칙
 - `main` : 배포용
