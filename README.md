@@ -170,7 +170,12 @@ public class BootSpringBootApplication {
 }
 </code></pre>
 ---
-✅ 방법 2: 백틱(```)을 이용하는 코드 블록
+✅ 방법 2: 백틱(```)을 이용
 
-코드블럭코드("```") 을 이용하는 방법
-
+```
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
