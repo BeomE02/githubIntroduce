@@ -22,6 +22,9 @@ Markdown은 **HTML로 변환이 가능**하며, 특수기호와 문자를 이용
 프로젝트의 문서를 체계적으로 정리하기 위해 `#` 기호를 활용할 수 있습니다.
 
 ```md
-# 가장 큰 제목 (H1)
-## 두 번째 큰 제목 (H2)
-### 세 번째 제목 (H3)
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
