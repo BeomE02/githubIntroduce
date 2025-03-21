@@ -472,3 +472,8 @@ Markdown에서 테이블을 만드는 방법:
 |--------|--------|--------------------------------|
 | 하재범 | 작성  | [프로필](https://github.com/BeomE02) |
 | 하재범 | 디자인 | [블로그](https://blog.naver.com/jq5511) |
+
+#### 참고했던 링크
+[markdownguide](https://www.markdownguide.org/)
+[블로그 1](https://nolboo.kim/blog/2014/03/25/github-flavored-markdown/)
+[블로그 2](https://www.slideshare.net/slideshow/ss-40575068/40575068)
