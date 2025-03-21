@@ -179,4 +179,7 @@ public class BootSpringBootApplication {
   }
 }
 ```
-
+---
+### ✅ 수평선
+Markdown에서는 수평선을 사용하여 내용을 구분할 수 있습니다.
+아래의 방법을 사용하면 수평선을 만들 수 있습니다.
