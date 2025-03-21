@@ -172,10 +172,11 @@ public class BootSpringBootApplication {
 ---
 ✅ 방법 2: 백틱(```)을 이용
 
-```java
+```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, JB");
   }
 }
 ```
+
