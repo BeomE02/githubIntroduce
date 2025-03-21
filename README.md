@@ -212,7 +212,7 @@ Markdown에서는 수평선을 사용하여 내용을 구분할 수 있습니다
 ### ✅ 링크
 Markdown에서 링크를 생성하는 방법은 여러 가지가 있습니다.   
 
-✅ 참조 링크 (Reference Links)
+✅ 참조 링크
 ```md
 [링크 키워드][id]  <!-- 링크를 참조 방식으로 설정 -->
 
@@ -267,7 +267,7 @@ Markdown에서 직접 링크를 추가하는 방법:
 
 ---
 
-### ✅ 강조 (Text Formatting)   
+### ✅ 강조
 Markdown에서는 텍스트를 굵게(Bold), 기울임체(Italic), 취소선 으로 강조할 수 있습니다.
 
 ```md
@@ -286,3 +286,20 @@ _single underscores_
 __double underscores__   
 ~~cancelline~~   
 
+### ✅ 이미지 (Image)
+Markdown에서 이미지를 삽입하는 방법입니다.   
+✅ 기본 이미지 삽입
+```md
+![대체 텍스트](/path/to/img.jpg)  
+![대체 텍스트](/path/to/img.jpg "선택적 제목")
+
+Markdown에서 이미지 삽입하는 방법:
+1. `![대체 텍스트](이미지 경로)` 형식으로 작성합니다.
+2. `대체 텍스트`는 이미지가 로드되지 않을 때 표시되는 텍스트입니다.
+3. `이미지 경로`는 이미지 파일의 URL 또는 파일 경로입니다.
+4. `"선택적 제목"`을 추가하면 마우스를 올렸을 때 툴팁이 표시됩니다.
+
+예시:
+![고양이 이미지]([https://example.com/cat.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp) "귀여운 고양이")
+```
+![고양이 이미지]([https://example.com/cat.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp)
