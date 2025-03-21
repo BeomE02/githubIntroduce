@@ -97,7 +97,7 @@ Markdown은 **HTML로 변환이 가능**하며, 특수기호와 문자를 이용
   - 녹색
     - 파랑
 
-###✅ * 혼합된 목록 (Nested List)
+### ✅ * 혼합된 목록 (Nested List)
 ```md
 * 1단계
   - 2단계
@@ -112,7 +112,7 @@ Markdown은 **HTML로 변환이 가능**하며, 특수기호와 문자를 이용
 
 ---
 
-###✅ 코드 블록 (Indentation & Code Blocks)
+### ✅ 코드 블록 (Indentation & Code Blocks)
 Markdown에서 들여쓰기(Indentation) 를 사용하면 코드 블록이 생성됩니다.
 4개의 공백 또는 1개의 탭을 사용하면 코드 블록으로 변환됩니다.
 
