@@ -250,4 +250,4 @@ Markdown에서 직접 링크를 추가하는 방법:
 
 
 ## 결과값
-[네이버](https://www.naver.com "네이버 링크")
+[네이버](https://www.naver.com "이곳을 누르면 네이버로 이동합니다.")
