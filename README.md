@@ -327,9 +327,9 @@ HTML `<img>` 태그를 사용하여 크기를 직접 설정할 수 있습니다.
 5. `alt="대체 텍스트"` → 이미지가 로드되지 않을 경우 표시될 텍스트
 
 예시:
-<img src="[https://example.com/duck.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp)" width="300px" height="200px" alt="귀여운 고양이">
+<img src="https://example.com/duck.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp" width="300px" height="200px" alt="귀여운 고양이">
 ```
 
 ## 결과값
 
-<img src="[https://example.com/duck.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp)" width="300px" height="200px" alt="귀여운 고양이">
+<img src="https://example.com/duck.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp" width="300px" height="200px" alt="귀여운 고양이">
