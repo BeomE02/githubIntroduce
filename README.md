@@ -154,7 +154,7 @@ HTML의 ```<pre>와 <code>``` 태그를 사용하여 코드 블록을 만들 수
 <pre><code>
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("Hello, JB");
   }
 }
 </code></pre>
@@ -165,17 +165,17 @@ public class BootSpringBootApplication {
 <pre><code>
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("Hello, JB");
   }
 }
 </code></pre>
 ---
 ✅ 방법 2: 백틱(```)을 이용
 
-```md
+```java
 public class BootSpringBootApplication {
   public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+    System.out.println("Hello, JB");
   }
 }
 ```
