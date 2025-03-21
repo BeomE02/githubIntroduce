@@ -332,4 +332,4 @@ HTML `<img>` 태그를 사용하여 크기를 직접 설정할 수 있습니다.
 
 ## 결과값
 
-<img src="https://example.com/duck.jpg](https://flexible.img.hani.co.kr/flexible/normal/765/459/imgdb/child/2024/0607/53_17177430334988_20240607501743.webp" width="300px" height="200px" alt="귀여운 고양이">
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="귀여운 고양이"></img><br/>
