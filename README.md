@@ -144,7 +144,7 @@ Markdown에서 들여쓰기(Indentation) 를 사용하면 코드 블록이 생�
 
 ---
 
-✅ 코드 블록 (Code Block)
+### ✅ 코드 블록 (Code Block)
 Markdown에서 코드블럭을 작성하는 방법은 두 가지가 있습니다.
 
 ✅ 방법 1: ```<pre><code>``` 태그 사용
