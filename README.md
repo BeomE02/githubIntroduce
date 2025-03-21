@@ -210,7 +210,8 @@ Markdown에서는 수평선을 사용하여 내용을 구분할 수 있습니다
 ---------------------------------------
 
 ### ✅ 링크
-Markdown에서 링크를 생성하는 방법은 여러 가지가 있습니다.
+Markdown에서 링크를 생성하는 방법은 여러 가지가 있습니다.   
+
 ✅ 참조 링크 (Reference Links)
 ```md
 [링크 키워드][id]  <!-- 링크를 참조 방식으로 설정 -->
@@ -251,3 +252,37 @@ Markdown에서 직접 링크를 추가하는 방법:
 
 ## 결과값
 [네이버](https://www.naver.com "이곳을 누르면 네이버로 이동합니다.")
+
+✅ 자동 연결 (Autolinks)   
+일반적인 URL 혹은 이메일 주소는 자동으로 링크로 변환됩니다.
+```md
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+```
+
+## 결과값
+
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+
+---
+
+### ✅ 강조 (Text Formatting)   
+Markdown에서는 텍스트를 굵게(Bold), 기울임체(Italic), 취소선 으로 강조할 수 있습니다.
+
+```md
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+```
+
+## 결과값
+
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+
