@@ -118,7 +118,7 @@ Markdown에서 들여쓰기(Indentation) 를 사용하면 코드 블록이 생�
 
 ✅ 기본 들여쓰기 사용 예제
 ```md
-이 영역은 일반적인 문단임:
+이 영역은 일반적인 문단임
 
     This is a code block.
     
@@ -133,11 +133,11 @@ Markdown에서 들여쓰기(Indentation) 를 사용하면 코드 블록이 생�
 
 ✅ 한 줄 띄어쓰지 않으면 인식이 안되는 문제
 ```md
-이 영역은 일반적인 문단임:
+이 영역은 일반적인 문단임
     This is a code block.
 코드가 끝남.
 ```
 ## 결과값
-이 영역은 일반적인 문단임:
+이 영역은 일반적인 문단임
     This is a code block.
 코드가 끝남.
