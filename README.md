@@ -20,36 +20,36 @@ Markdown은 **HTML로 변환이 가능**하며, 특수기호와 문자를 이용
 프로젝트의 문서를 체계적으로 정리하기 위해 `#` 기호를 활용할 수 있습니다.
 
 ```md
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+# 이것은 H1 입니다.
+## 이것은 H2 입니다.
+### 이것은 H3 입니다.
+#### 이것은 H4 입니다.
+##### 이것은 H5 입니다.
+###### 이것은 H6 입니다.
 
 ```
 ## 결과값
 
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+# 이것은 H1 입니다.
+## 이것은 H2 입니다.
+### 이것은 H3 입니다.
+#### 이것은 H4 입니다.
+##### 이것은 H5 입니다.
+###### 이것은 H6 입니다.
 ---
 ### ✅ BlockQuote (인용문)
 이메일에서 사용하는 > 기호를 활용하여 인용문을 작성할 수 있습니다.
 
 ```md
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
+> 이것은 첫 번째 인용문입니다.
+>	> 이것은 두 번째 인용문입니다.
+>	>	> 이것은 세 번째 인용문입니다.
 ```
 
 ## 결과값
-> This is a first blockquote.
->	> This is a second blockquote.
->	>	> This is a third blockquote.
+> 이것은 첫 번째 인용문입니다.
+>	> 이것은 두 번째 인용문입니다.
+>	>	> 이것은 세 번째 인용문입니다.
 ---
 
 ### ✅ 목록(List) 사용하기
@@ -97,7 +97,7 @@ Markdown은 **HTML로 변환이 가능**하며, 특수기호와 문자를 이용
   - 녹색
     - 파랑
 
-### ✅ * 혼합된 목록 (Nested List)
+### ✅ * 혼합된 목록
 ```md
 * 1단계
   - 2단계
@@ -112,8 +112,8 @@ Markdown은 **HTML로 변환이 가능**하며, 특수기호와 문자를 이용
 
 ---
 
-### ✅ 코드 블록 (Indentation & Code Blocks)
-Markdown에서 들여쓰기(Indentation) 를 사용하면 코드 블록이 생성됩니다.
+### ✅ 코드
+Markdown에서 들여쓰기를 사용하면 코드 블록이 생성됩니다.
 4개의 공백 또는 1개의 탭을 사용하면 코드 블록으로 변환됩니다.
 
 ✅ 기본 들여쓰기 사용 예제
