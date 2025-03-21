@@ -314,8 +314,8 @@ HTML 태그 <img>를 사용하면 크기를 조절할 수 있습니다.
 
 ```md
 <!-- HTML을 사용하여 이미지 크기를 조절하는 방법 -->
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="비율 크기 설정" alt="RubberDuck">
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="고양이"><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="비율 크기 설정" alt="고양이">
 
 Markdown에서는 기본적으로 이미지 크기 조절 기능이 없기 때문에,
 HTML `<img>` 태그를 사용하여 크기를 직접 설정할 수 있습니다.
