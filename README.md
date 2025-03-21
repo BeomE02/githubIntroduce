@@ -169,5 +169,8 @@ public class BootSpringBootApplication {
   }
 }
 </code></pre>
+---
+✅ 방법 2: 백틱(```)을 이용하는 코드 블록
 
+코드블럭코드("```") 을 이용하는 방법
 
