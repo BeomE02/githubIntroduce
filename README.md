@@ -274,7 +274,7 @@ Markdown에서 코드블럭을 작성하는 방법은 두 가지가 있습니다
 ✅ 방법 1: ```<pre><code>``` 태그 사용   
 HTML의 ```<pre>와 <code>``` 태그를 사용하여 코드 블록을 만들 수 있습니다.
 
-```java
+```md
 <pre><code>
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -296,7 +296,7 @@ public class BootSpringBootApplication {
 
 ✅ 방법 2: 백틱(```)을 이용
 
-```
+```java
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, JB");
